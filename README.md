@@ -1,4 +1,4 @@
-# SysInfoScript
+# SysInfo.py
 
 ## A simple system information / audit script
 
