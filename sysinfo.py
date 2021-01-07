@@ -1,16 +1,22 @@
 #This script uses python3
 # This script requires psutil.
 # Use pip install psutil to install psutil.
-#some features of this script may require administrative privilages.  
+#some features of this script may require administrative privilages.
 
 
 
 # importing module
 import platform
 print("-----------------------------------------------------------------------")
+
+print()
+
+print("Platform Info:")
+
+print()
+
 # dictionary
 info = {}
-
 # platform details
 platform_details = platform.platform()
 
@@ -44,9 +50,11 @@ import psutil
 
 print("-----------------------------------------------------------------------")
 
+print()
 
-print("System Process Info")
+print("System Process Info:")
 
+print()
 
 # Iterate over all running process
 for proc in psutil.process_iter():
@@ -59,12 +67,14 @@ for proc in psutil.process_iter():
         pass
 print("-----------------------------------------------------------------------")
 
-print("System User Info")
+print()
+
+print("System User Info:")
 
 
 
 import psutil
-
+print()
 #print users
 print(psutil.users())
 
@@ -72,4 +82,4 @@ print("-----------------------------------------------------------------------")
 
 
 # print("System Network Info")
-# More funtionluty will be added in future commits. Thank you.
+# More cfuntionluty will be added in future commits. Thank you.
