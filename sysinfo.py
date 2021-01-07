@@ -72,4 +72,4 @@ print("-----------------------------------------------------------------------")
 
 
 # print("System Network Info")
-# More cfuntionluty will be added in future commits. Thank you.
+# More funtionluty will be added in future commits. Thank you.
