@@ -1,6 +1,6 @@
 # SysInfoScript
 
-##A simple system information / audit script
+#A simple system information / audit script
 
 
 
