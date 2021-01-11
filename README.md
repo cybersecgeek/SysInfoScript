@@ -4,4 +4,6 @@
 
 
 
+To install reqs for this poject use: 
 
+sudo python3 -m pip install -r requirements.txt
