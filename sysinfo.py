@@ -1,6 +1,5 @@
 #This script uses python3
-# This script requires psutil.
-# Use pip install psutil to install psutil.
+#REfer to requirements.txt for script requirements. 
 #some features of this script may require administrative privilages.
 
 
