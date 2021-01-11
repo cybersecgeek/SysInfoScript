@@ -1,5 +1,5 @@
 #This script uses python3
-#REfer to requirements.txt for script requirements. 
+#Refer to requirements.txt for script requirements. 
 #some features of this script may require administrative privilages.
 
 
@@ -80,5 +80,5 @@ print(psutil.users())
 print("-----------------------------------------------------------------------")
 
 
-# print("System Network Info")
+# print("System Network Info") ??? Maybe ?
 # More funtionluty will be added in future commits. Thank you.
